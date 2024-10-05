@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Xister Reply**
 
-- 👨‍💻 All of my projects are available at [is currently under development...]
+- 👨‍💻 All of my projects are available at **is currently under development...**
 
 - 💬 Ask me about **Angular, React.js, NgRx, Rxjs, Node.js...**
 
