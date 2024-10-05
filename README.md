@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Xister Reply**
 
-- 👨‍💻 All of my projects are available at [is currently under development...](is currently under development...)
+- 👨‍💻 All of my projects are available at [is currently under development...]
 
 - 💬 Ask me about **Angular, React.js, NgRx, Rxjs, Node.js...**
 
 - 📫 How to reach me **fed.gasperoni@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://github.com/ryo-ma/github-profile-trophy](https://drive.google.com/file/d/1SDt9gUXe37Zb6QdLwHjFXP58Li4JZgcL/view?usp=sharing)" style="text-decoration: underline">My CV</a>
+- 📄 Know about my experiences **<a href="[https://github.com/ryo-ma/github-profile-trophy](https://drive.google.com/file/d/1SDt9gUXe37Zb6QdLwHjFXP58Li4JZgcL/view?usp=sharing)" style="text-decoration: underline">My CV</a>**
 
 - ⚡ Fun fact **I'm a developer but I love ux/ui**
 
