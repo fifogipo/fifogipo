@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fed.gasperoni@gmail.com**
 
-- 📄 Know about my experiences **<a href="[https://github.com/ryo-ma/github-profile-trophy](https://drive.google.com/file/d/1SDt9gUXe37Zb6QdLwHjFXP58Li4JZgcL/view?usp=sharing)" style="text-decoration: underline">My CV</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1SDt9gUXe37Zb6QdLwHjFXP58Li4JZgcL/view?usp=sharing" style="text-decoration: underline">My CV</a>**
 
 - ⚡ Fun fact **I'm a developer but I love ux/ui**
 
