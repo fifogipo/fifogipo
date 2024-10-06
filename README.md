@@ -41,7 +41,6 @@
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="reactivex logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
