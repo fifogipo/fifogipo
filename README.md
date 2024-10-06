@@ -35,16 +35,6 @@
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="reactivex logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
