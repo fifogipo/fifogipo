@@ -1,13 +1,16 @@
 <h2 align="left">Hi 👋! My name is Federico Gasperoni and I'm a Creative Web Developer, from Italy</h2>
 
 ###
+###
 
 <p align="left">💫 About Me:<br>🔭 I’m currently working on Creating a dashboard with bot-generated KPIs<br>🌱 I’m currently learning Astro.js, Next.js, Nest.js, Gsap, Three.js<br>👯 I’m looking to collaborate on Xister Reply<br>👨‍💻 All of my projects are available at is currently under development...<br>💬 Ask me about Angular, React.js, NgRx, Rxjs, Node.js...<br>⚡ Fun fact **I'm a developer but I love ux/ui**</p>
 
 ###
+###
 
 <img align="right" height="150" src="./Animation - 1728143782099(2).gif"  />
 
+###
 ###
 
 <div align="left">
@@ -47,6 +50,7 @@
 </div>
 
 ###
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -57,6 +61,7 @@
 </div>
 
 ###
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fifogipo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -64,4 +69,5 @@
   <img src="https://streak-stats.demolab.com?user=fifogipo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+###
 ###
