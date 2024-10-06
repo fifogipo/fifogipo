@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=fifogipo&icon=2&color=12)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fed.gasperoni) 
 
 
-<iframe src="https://lottie.host/embed/806e3b45-6e62-409c-afca-67ab295aba49/tbTDTL47Ih.json"></iframe>
+<img src="./Animation%20-%201728140695162.gif" width="300px" />
 
 ---
 
