@@ -15,7 +15,8 @@
 ###
 ###
 
-<div align="left"><img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -34,6 +35,12 @@
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+</div>
+
+###
+###
+
+<div align="left">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="reactivex logo"  />
   <img width="12" />
