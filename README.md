@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Federico Gasperoni and I'm a Creative Web Developer, from Italy</h2>
+<h2 align="left">Hi 👋 My name is Federico Gasperoni and <br/> I'm a Creative Web Developer, from Italy</h2>
 
 ###
 
